@@ -1,10 +1,17 @@
 export interface Medication {
   id: string;
   name: string;
+  treatment?: string;
   category?: string;
   pharmacy?: string;
   price?: number;
   unit?: string;
+  paymentTerm?: string;
+  rxDetails?: string;
+  perShipmentCost?: number;
+  shipping?: number;
+  dispensing?: number;
+  total?: number;
 }
 
 export interface CalculationInput {

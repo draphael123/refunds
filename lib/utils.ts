@@ -67,3 +67,12 @@ export function parseMedicationAmount(value: string): { amount: number; unit: st
 export function generateId(): string {
   return Date.now().toString() + Math.random().toString(36).substr(2, 9);
 }
+
+export function calculateProfitMargin(amountPaid: number, cogsTotal: number): number {
+  if (amountPaid === 0) return 0;
+  return ((amountPaid - cogsTotal) / amountPaid) * 100;
+}
+
+export function calculateProfit(amountPaid: number, cogsTotal: number): number {
+  return amountPaid - cogsTotal;
+}

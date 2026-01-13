@@ -1,0 +1,492 @@
+[
+  {
+    "treatment": "TRT ΓÇô T CYPIONATE (4WKS)",
+    "paymentTerm": "4WKS",
+    "rxDetails": "10ML",
+    "pharmacy": "TPH",
+    "perShipmentCost": 40,
+    "shipping": 13,
+    "dispensing": 10.9,
+    "total": 63.9
+  },
+  {
+    "treatment": "TRT ΓÇô T CYPIONATE (12WKS)",
+    "paymentTerm": "12WKS",
+    "rxDetails": "10ML",
+    "pharmacy": "TPH",
+    "perShipmentCost": 40,
+    "shipping": 13,
+    "dispensing": 10.9,
+    "total": 63.9
+  },
+  {
+    "treatment": "TRT ΓÇô T CYPIONATE (48WKS)",
+    "paymentTerm": "48WKS",
+    "rxDetails": "10ML",
+    "pharmacy": "TPH",
+    "perShipmentCost": 40,
+    "shipping": 13,
+    "dispensing": 10.9,
+    "total": 63.9
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (4WKS)",
+    "paymentTerm": "4WKS",
+    "rxDetails": "(14mL) #14",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 14,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 35.81
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (4WKS)",
+    "paymentTerm": "4WKS",
+    "rxDetails": "(28mL) #28",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 24.5,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 46.31
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (4WKS)",
+    "paymentTerm": "4WKS",
+    "rxDetails": "(42mL) #42",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 35,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 56.81
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (4WKS)",
+    "paymentTerm": "4WKS",
+    "rxDetails": "(28mL) #56",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 49,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 70.81
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (12WKS)",
+    "paymentTerm": "12WKS",
+    "rxDetails": "(21mL) #63",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 57.75,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 79.56
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (12WKS)",
+    "paymentTerm": "12WKS",
+    "rxDetails": "(42mL) #84",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 73.5,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 95.31
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (12WKS)",
+    "paymentTerm": "12WKS",
+    "rxDetails": "(21mL) #105",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 96.25,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 118.06
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (12WKS)",
+    "paymentTerm": "12WKS",
+    "rxDetails": "(42mL) #126",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 105,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 126.81
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (12WKS)",
+    "paymentTerm": "12WKS",
+    "rxDetails": "(21mL) #147",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 134.75,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 156.56
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (12WKS)",
+    "paymentTerm": "12WKS",
+    "rxDetails": "(42mL) #168",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 140,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 161.81
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (48WKS)",
+    "paymentTerm": "48WKS",
+    "rxDetails": "(21mL) #63",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 57.75,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 79.56
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (48WKS)",
+    "paymentTerm": "48WKS",
+    "rxDetails": "(42mL) #84",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 73.5,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 95.31
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (48WKS)",
+    "paymentTerm": "48WKS",
+    "rxDetails": "(21mL) #105",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 96.25,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 118.06
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (48WKS)",
+    "paymentTerm": "48WKS",
+    "rxDetails": "(42mL) #126",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 105,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 126.81
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (48WKS)",
+    "paymentTerm": "48WKS",
+    "rxDetails": "(21mL) #147",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 134.75,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 156.56
+  },
+  {
+    "treatment": "TRT ΓÇô T CREAM (48WKS)",
+    "paymentTerm": "48WKS",
+    "rxDetails": "(42mL) #168",
+    "pharmacy": "CUREXA",
+    "perShipmentCost": 140,
+    "shipping": 12,
+    "dispensing": 9.81,
+    "total": 161.81
+  },
+  {
+    "treatment": "TRT ΓÇô ENCLOMIPHENE (4WKS)",
+    "paymentTerm": "4WKS",
+    "rxDetails": "6.25 MG",
+    "pharmacy": "TPH",
+    "perShipmentCost": 12.88,
+    "shipping": 13,
+    "dispensing": 8,
+    "total": 33.88
+  },
+  {
+    "treatment": "TRT ΓÇô ENCLOMIPHENE (4WKS)",
+    "paymentTerm": "4WKS",
+    "rxDetails": "12.5 MG",
+    "pharmacy": "TPH",
+    "perShipmentCost": 16.52,
+    "shipping": 13,
+    "dispensing": 8,
+    "total": 37.52
+  },
+  {
+    "treatment": "TRT ΓÇô ENCLOMIPHENE (4WKS)",
+    "paymentTerm": "4WKS",
+    "rxDetails": "25 MG",
+    "pharmacy": "TPH",
+    "perShipmentCost": 29.4,
+    "shipping": 13,
+    "dispensing": 8,
+    "total": 50.4
+  },
+  {
+    "treatment": "TRT ΓÇô ENCLOMIPHENE (12WKS)",
+    "paymentTerm": "12WKS",
+    "rxDetails": "6.25 MG",
+    "pharmacy": "TPH",
+    "perShipmentCost": 38.64,
+    "shipping": 13,
+    "dispensing": 8,
+    "total": 59.64
+  },
+  {
+    "treatment": "TRT ΓÇô ENCLOMIPHENE (12WKS)",
+    "paymentTerm": "12WKS",
+    "rxDetails": "12.5 MG",
+    "pharmacy": "TPH",
+    "perShipmentCost": 49.56,
+    "shipping": 13,
+    "dispensing": 8,
+    "total": 70.56
+  },
+  {
+    "treatment": "TRT ΓÇô ENCLOMIPHENE (12WKS)",
+    "paymentTerm": "12WKS",
+    "rxDetails": "25 MG",
+    "pharmacy": "TPH",
+    "perShipmentCost": 88.2,
+    "shipping": 13,
+    "dispensing": 8,
+    "total": 109.2
+  },
+  {
+    "treatment": "TRT ΓÇô ENCLOMIPHENE (48WKS)",
+    "paymentTerm": "48WKS",
+    "rxDetails": "6.25 MG",
+    "pharmacy": "TPH",
+    "perShipmentCost": 38.64,
+    "shipping": 13,
+    "dispensing": 8,
+    "total": 59.64
+  },
+  {
+    "treatment": "TRT ΓÇô ENCLOMIPHENE (48WKS)",
+    "paymentTerm": "48WKS",
+    "rxDetails": "12.5 MG",
+    "pharmacy": "TPH",
+    "perShipmentCost": 49.56,
+    "shipping": 13,
+    "dispensing": 8,
+    "total": 70.56
+  },
+  {
+    "treatment": "TRT ΓÇô ENCLOMIPHENE (48WKS)",
+    "paymentTerm": "48WKS",
+    "rxDetails": "25 MG",
+    "pharmacy": "TPH",
+    "perShipmentCost": 88.2,
+    "shipping": 13,
+    "dispensing": 8,
+    "total": 109.2
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "4WKS",
+    "rxDetails": "Progesterone only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 41.4,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 54.4
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "12WKS",
+    "rxDetails": "Progesterone only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 41.4,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 54.4
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "48WKS",
+    "rxDetails": "Progesterone only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 41.4,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 54.4
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "4WKS",
+    "rxDetails": "Testosterone only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 37.26,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 50.26
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "12WKS",
+    "rxDetails": "Testosterone only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 37.26,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 50.26
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "48WKS",
+    "rxDetails": "Testosterone only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 37.26,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 50.26
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "4WKS",
+    "rxDetails": "Estrogen only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 37.26,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 50.26
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "12WKS",
+    "rxDetails": "Estrogen only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 37.26,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 50.26
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "48WKS",
+    "rxDetails": "Estrogen only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 37.26,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 50.26
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "4WKS",
+    "rxDetails": "Testosterone and Progesterone only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 78.66,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 91.66
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "12WKS",
+    "rxDetails": "Testosterone and Progesterone only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 78.66,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 91.66
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "48WKS",
+    "rxDetails": "Testosterone and Progesterone only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 78.66,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 91.66
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "4WKS",
+    "rxDetails": "Estrogen and Progesterone only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 78.66,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 91.66
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "12WKS",
+    "rxDetails": "Estrogen and Progesterone only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 78.66,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 91.66
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "48WKS",
+    "rxDetails": "Estrogen and Progesterone only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 78.66,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 91.66
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "4WKS",
+    "rxDetails": "Testosterone and Estrogen only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 74.52,
+    "shipping": 12,
+    "dispensing": 0,
+    "total": 86.52
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "12WKS",
+    "rxDetails": "Testosterone and Estrogen only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 74.52,
+    "shipping": 12,
+    "dispensing": 0,
+    "total": 86.52
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "48WKS",
+    "rxDetails": "Testosterone and Estrogen only",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 74.52,
+    "shipping": 12,
+    "dispensing": 0,
+    "total": 86.52
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "4WKS",
+    "rxDetails": "Testosterone, Estrogen, and Progesterone",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 115.92,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 128.92
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "12WKS",
+    "rxDetails": "Testosterone, Estrogen, and Progesterone",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 115.92,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 128.92
+  },
+  {
+    "treatment": "HRT ΓÇô FIRST 90 DAYS",
+    "paymentTerm": "48WKS",
+    "rxDetails": "Testosterone, Estrogen, and Progesterone",
+    "pharmacy": "BELMAR",
+    "perShipmentCost": 115.92,
+    "shipping": 13,
+    "dispensing": 0,
+    "total": 128.92
+  }
+]
